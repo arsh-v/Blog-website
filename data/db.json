@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "lorem ipsom .................",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party!",
+      "body": "lorem ipsom .................",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "arsh",
+      "body": "arsh",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "ajsbxablbhslhabcs",
+      "body": "lijbsciaubciubcjsaijsc",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "gfgf",
+      "body": "hnfxjyckytc",
+      "author": "mario",
+      "id": 7
+    }
+  ]
+}
